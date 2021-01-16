@@ -1,0 +1,11 @@
+baseURL = "http://www.example.fakedontuse/"
+languageCode = "en-us"
+title = "fake hugo site"
+theme = "bettertale"
+pluralizelisttitles = false
+preserveTaxonomyNames = true
+disableKinds = ["sitemap"]
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
